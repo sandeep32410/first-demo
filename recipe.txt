@@ -7,4 +7,7 @@ chicken biryani type 2
 chicken biryani type 3
 chicken biryani type 4
 
+chicken biryani type 5
+chicken biryani type 6
+chicken biryani type 7
 
